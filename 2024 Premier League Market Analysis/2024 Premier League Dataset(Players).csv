@@ -1,0 +1,531 @@
+Name,Nationality,Birthdate,Age,Position,Market Value Shortcut, Market Value,Club
+David Raya,Spain,15/09/1995,29,Goalkeeper,€35.00m,35000000,Arsenal
+Neto,Brazil,19/07/1989,35,Goalkeeper,€2.50m,2500000,Arsenal
+William Saliba,France,24/03/2001,23,Centre-Back,€80.00m,80000000,Arsenal
+Gabriel Magalhães,Brazil,19/12/1997,26,Centre-Back,€75.00m,75000000,Arsenal
+Jurrien Timber,Netherlands,17/06/2001,23,Centre-Back,€38.00m,38000000,Arsenal
+Jakub Kiwior,Poland,15/02/2000,24,Centre-Back,€30.00m,30000000,Arsenal
+Riccardo Calafiori,Italy,19/05/2002,22,Left-Back,€45.00m,45000000,Arsenal
+Oleksandr Zinchenko,Ukraine,15/12/1996,27,Left-Back,€35.00m,35000000,Arsenal
+Kieran Tierney,Scotland,05/06/1997,27,Left-Back,€10.00m,10000000,Arsenal
+Ben White,England,08/10/1997,27,Right-Back,€55.00m,55000000,Arsenal
+Takehiro Tomiyasu,Japan,05/11/1998,25,Right-Back,€35.00m,35000000,Arsenal
+Declan Rice,England,14/01/1999,25,Defensive Midfield,€120.00m,120000000,Arsenal
+Thomas Partey,Ghana,13/06/1993,31,Defensive Midfield,€18.00m,18000000,Arsenal
+Jorginho,Italy,20/12/1991,32,Defensive Midfield,€12.00m,12000000,Arsenal
+Mikel Merino,Spain,22/06/1996,28,Central Midfield,€50.00m,50000000,Arsenal
+Martin Ødegaard,Norway,17/12/1998,25,Attacking Midfield,€110.00m,110000000,Arsenal
+Ethan Nwaneri,England,21/03/2007,17,Attacking Midfield,€12.00m,12000000,Arsenal
+Gabriel Martinelli,Brazil,18/06/2001,23,Left Winger,€60.00m,60000000,Arsenal
+Leandro Trossard,Belgium,04/12/1994,29,Left Winger,€35.00m,35000000,Arsenal
+Raheem Sterling,England,08/12/1994,29,Left Winger,€35.00m,35000000,Arsenal
+Bukayo Saka,England,05/09/2001,23,Right Winger,€140.00m,140000000,Arsenal
+Kai Havertz,Germany,11/06/1999,25,Centre-Forward,€75.00m,75000000,Arsenal
+Gabriel Jesus,Brazil,03/04/1997,27,Centre-Forward,€55.00m,55000000,Arsenal
+Emiliano Martínez,Argentina,02/09/1992,32,Goalkeeper,€28.00m,28000000,Aston Villa
+Joe Gauci,Australia,04/07/2000,24,Goalkeeper,€1.50m,1500000,Aston Villa
+Robin Olsen,Sweden,08/01/1990,34,Goalkeeper,€1.50m,1500000,Aston Villa
+Pau Torres,Spain,16/01/1997,27,Centre-Back,€45.00m,45000000,Aston Villa
+Ezri Konsa,England,23/10/1997,26,Centre-Back,€35.00m,35000000,Aston Villa
+Diego Carlos,Brazil,15/03/1993,31,Centre-Back,€12.00m,12000000,Aston Villa
+Tyrone Mings,England,13/03/1993,31,Centre-Back,€10.00m,10000000,Aston Villa
+Kortney Hause,England,16/07/1995,29,Centre-Back,€2.00m,2000000,Aston Villa
+Lamare Bogarde,Netherlands,05/01/2004,20,Centre-Back,€450k,450000,Aston Villa
+Ian Maatsen,Netherlands,10/03/2002,22,Left-Back,€40.00m,40000000,Aston Villa
+Lucas Digne,France,20/07/1993,31,Left-Back,€12.00m,12000000,Aston Villa
+Matty Cash,Poland,07/08/1997,27,Right-Back,€28.00m,28000000,Aston Villa
+Kosta Nedeljkovic,Serbia,16/12/2005,18,Right-Back,€8.00m,8000000,Aston Villa
+Amadou Onana,Belgium,16/08/2001,23,Defensive Midfield,€55.00m,55000000,Aston Villa
+Boubacar Kamara,France,23/11/1999,24,Defensive Midfield,€38.00m,38000000,Aston Villa
+John McGinn,Scotland,18/10/1994,29,Central Midfield,€30.00m,30000000,Aston Villa
+Youri Tielemans,Belgium,07/05/1997,27,Central Midfield,€30.00m,30000000,Aston Villa
+Ross Barkley,England,05/12/1993,30,Central Midfield,€8.00m,8000000,Aston Villa
+Jacob Ramsey,England,28/05/2001,23,Attacking Midfield,€32.00m,32000000,Aston Villa
+Morgan Rogers,England,26/07/2002,22,Attacking Midfield,€22.00m,22000000,Aston Villa
+Emiliano Buendía,Argentina,25/12/1996,27,Attacking Midfield,€20.00m,20000000,Aston Villa
+Jaden Philogene,England,08/02/2002,22,Left Winger,€15.00m,15000000,Aston Villa
+Leon Bailey,Jamaica,09/08/1997,27,Right Winger,€42.00m,42000000,Aston Villa
+Ollie Watkins,England,30/12/1995,28,Centre-Forward,€65.00m,65000000,Aston Villa
+Jhon Durán,Colombia,13/12/2003,20,Centre-Forward,€35.00m,35000000,Aston Villa
+Kepa Arrizabalaga,Spain,03/10/1994,30,Goalkeeper,€12.00m,12000000,Bournemouth
+Mark Travers,Ireland,18/05/1999,25,Goalkeeper,€3.50m,3500000,Bournemouth
+Will Dennis,England,10/07/2000,24,Goalkeeper,€350k,350000,Bournemouth
+Ilya Zabarnyi,Ukraine,01/09/2002,22,Centre-Back,€32.00m,32000000,Bournemouth
+Marcos Senesi,Argentina,10/05/1997,27,Centre-Back,€22.00m,22000000,Bournemouth
+Dean Huijsen,Spain,14/04/2005,19,Centre-Back,€12.00m,12000000,Bournemouth
+James Hill,England,10/01/2002,22,Centre-Back,€2.00m,2000000,Bournemouth
+Milos Kerkez,Hungary,07/11/2003,20,Left-Back,€20.00m,20000000,Bournemouth
+Max Aarons,England,04/01/2000,24,Right-Back,€16.00m,16000000,Bournemouth
+Julián Araujo,Mexico,13/08/2001,23,Right-Back,€8.00m,8000000,Bournemouth
+Adam Smith,England,29/04/1991,33,Right-Back,€1.00m,1000000,Bournemouth
+Tyler Adams,United States,14/02/1999,25,Defensive Midfield,€15.00m,15000000,Bournemouth
+Alex Scott,England,21/08/2003,21,Central Midfield,€20.00m,20000000,Bournemouth
+Philip Billing,Denmark,11/06/1996,28,Central Midfield,€18.00m,18000000,Bournemouth
+Lewis Cook,England,03/02/1997,27,Central Midfield,€12.00m,12000000,Bournemouth
+Ryan Christie,Scotland,22/02/1995,29,Central Midfield,€12.00m,12000000,Bournemouth
+Marcus Tavernier,England,22/03/1999,25,Left Midfield,€20.00m,20000000,Bournemouth
+Dango Ouattara,Burkina Faso,11/02/2002,22,Left Winger,€20.00m,20000000,Bournemouth
+Luis Sinisterra,Colombia,17/06/1999,25,Left Winger,€17.00m,17000000,Bournemouth
+Justin Kluivert,Netherlands,05/05/1999,25,Left Winger,€14.00m,14000000,Bournemouth
+Antoine Semenyo,Ghana,07/01/2000,24,Right Winger,€20.00m,20000000,Bournemouth
+David Brooks,Wales,08/07/1997,27,Right Winger,€8.00m,8000000,Bournemouth
+Evanilson,Brazil,06/10/1999,25,Centre-Forward,€35.00m,35000000,Bournemouth
+Enes Ünal,Türkiye,10/05/1997,27,Centre-Forward,€15.00m,15000000,Bournemouth
+Mark Flekken,Netherlands,13/06/1993,31,Goalkeeper,€12.00m,12000000,Brentford
+Hákon Rafn Valdimarsson,Iceland,13/10/2001,22,Goalkeeper,€2.50m,2500000,Brentford
+Matthew Cox,England,02/05/2003,21,Goalkeeper,€800k,800000,Brentford
+Nathan Collins,Ireland,30/04/2001,23,Centre-Back,€25.00m,25000000,Brentford
+Sepp van den Berg,Netherlands,20/12/2001,22,Centre-Back,€18.00m,18000000,Brentford
+Kristoffer Ajer,Norway,17/04/1998,26,Centre-Back,€15.00m,15000000,Brentford
+Ethan Pinnock,Jamaica,29/05/1993,31,Centre-Back,€10.00m,10000000,Brentford
+Ben Mee,England,21/09/1989,35,Centre-Back,€1.00m,1000000,Brentford
+Ji-soo Kim,"Korea, South",24/12/2004,19,Centre-Back,€600k,600000,Brentford
+Rico Henry,England,08/07/1997,27,Left-Back,€20.00m,20000000,Brentford
+Jayden Meghoma,England,28/06/2006,18,Left-Back,€0,0,Brentford
+Aaron Hickey,Scotland,10/06/2002,22,Right-Back,€25.00m,25000000,Brentford
+Mads Roerslev,Denmark,24/06/1999,25,Right-Back,€10.00m,10000000,Brentford
+Vitaly Janelt,Germany,10/05/1998,26,Defensive Midfield,€22.00m,22000000,Brentford
+Christian Nørgaard,Denmark,10/03/1994,30,Defensive Midfield,€18.00m,18000000,Brentford
+Yunus Emre Konak,Türkiye,10/01/2006,18,Defensive Midfield,€3.50m,3500000,Brentford
+Mathias Jensen,Denmark,01/01/1996,28,Central Midfield,€28.00m,28000000,Brentford
+Josh Dasilva,England,23/10/1998,25,Central Midfield,€10.00m,10000000,Brentford
+Paris Maghoma,England,08/05/2001,23,Central Midfield,€350k,350000,Brentford
+Ryan Trevitt,England,12/03/2003,21,Central Midfield,€275k,275000,Brentford
+Fábio Carvalho,Portugal,30/08/2002,22,Attacking Midfield,€18.00m,18000000,Brentford
+Yegor Yarmolyuk,Ukraine,01/03/2004,20,Attacking Midfield,€10.00m,10000000,Brentford
+Kevin Schade,Germany,27/11/2001,22,Left Winger,€22.00m,22000000,Brentford
+Keane Lewis-Potter,England,22/02/2001,23,Left Winger,€18.00m,18000000,Brentford
+Mikkel Damsgaard,Denmark,03/07/2000,24,Left Winger,€10.00m,10000000,Brentford
+Gustavo Nunes,Brazil,20/11/2005,18,Left Winger,€10.00m,10000000,Brentford
+Bryan Mbeumo,Cameroon,07/08/1999,25,Right Winger,€40.00m,40000000,Brentford
+Yoane Wissa,DR Congo,03/09/1996,28,Centre-Forward,€28.00m,28000000,Brentford
+Igor Thiago,Brazil,26/06/2001,23,Centre-Forward,€25.00m,25000000,Brentford
+Bart Verbruggen,Netherlands,18/08/2002,22,Goalkeeper,€22.00m,22000000,Brighton & Hove Albion
+Jason Steele,England,18/08/1990,34,Goalkeeper,€3.50m,3500000,Brighton & Hove Albion
+Jan Paul van Hecke,Netherlands,08/06/2000,24,Centre-Back,€22.00m,22000000,Brighton & Hove Albion
+Igor,Brazil,07/02/1998,26,Centre-Back,€17.00m,17000000,Brighton & Hove Albion
+Adam Webster,England,04/01/1995,29,Centre-Back,€15.00m,15000000,Brighton & Hove Albion
+Lewis Dunk,England,21/11/1991,32,Centre-Back,€12.00m,12000000,Brighton & Hove Albion
+Ferdi Kadıoğlu,Türkiye,07/10/1999,25,Left-Back,€30.00m,30000000,Brighton & Hove Albion
+Pervis Estupiñán,Ecuador,21/01/1998,26,Left-Back,€30.00m,30000000,Brighton & Hove Albion
+Imari Samuels,England,05/02/2003,21,Left-Back,€100k,100000,Brighton & Hove Albion
+Jack Hinshelwood,England,11/04/2005,19,Right-Back,€20.00m,20000000,Brighton & Hove Albion
+Tariq Lamptey,Ghana,30/09/2000,24,Right-Back,€12.00m,12000000,Brighton & Hove Albion
+Joël Veltman,Netherlands,15/01/1992,32,Right-Back,€8.00m,8000000,Brighton & Hove Albion
+Mats Wieffer,Netherlands,16/11/1999,24,Defensive Midfield,€30.00m,30000000,Brighton & Hove Albion
+Carlos Baleba,Cameroon,03/01/2004,20,Defensive Midfield,€22.00m,22000000,Brighton & Hove Albion
+Matt O'Riley,Denmark,21/11/2000,23,Central Midfield,€20.00m,20000000,Brighton & Hove Albion
+Jakub Moder,Poland,07/04/1999,25,Central Midfield,€10.00m,10000000,Brighton & Hove Albion
+Yasin Ayari,Sweden,06/10/2003,21,Central Midfield,€4.50m,4500000,Brighton & Hove Albion
+James Milner,England,04/01/1986,38,Central Midfield,€1.00m,1000000,Brighton & Hove Albion
+Julio Enciso,Paraguay,23/01/2004,20,Attacking Midfield,€22.00m,22000000,Brighton & Hove Albion
+Kaoru Mitoma,Japan,20/05/1997,27,Left Winger,€45.00m,45000000,Brighton & Hove Albion
+Simon Adingra,Cote d'Ivoire,01/01/2002,22,Right Winger,€30.00m,30000000,Brighton & Hove Albion
+Yankuba Minteh,The Gambia,22/07/2004,20,Right Winger,€28.00m,28000000,Brighton & Hove Albion
+Brajan Gruda,Germany,31/05/2004,20,Right Winger,€25.00m,25000000,Brighton & Hove Albion
+Solly March,England,20/07/1994,30,Right Winger,€15.00m,15000000,Brighton & Hove Albion
+João Pedro,Brazil,26/09/2001,23,Centre-Forward,€50.00m,50000000,Brighton & Hove Albion
+Evan Ferguson,Ireland,19/10/2004,19,Centre-Forward,€45.00m,45000000,Brighton & Hove Albion
+Georginio Rutter,France,20/04/2002,22,Centre-Forward,€28.00m,28000000,Brighton & Hove Albion
+Danny Welbeck,England,26/11/1990,33,Centre-Forward,€5.00m,5000000,Brighton & Hove Albion
+Robert Sánchez,Spain,18/11/1997,26,Goalkeeper,€20.00m,20000000,Chelsea
+Filip Jørgensen,Denmark,16/04/2002,22,Goalkeeper,€20.00m,20000000,Chelsea
+Marcus Bettinelli,England,24/05/1992,32,Goalkeeper,€1.00m,1000000,Chelsea
+Lucas Bergström,Finland,05/09/2002,22,Goalkeeper,€700k,700000,Chelsea
+Levi Colwill,England,26/02/2003,21,Centre-Back,€50.00m,50000000,Chelsea
+Axel Disasi,France,11/03/1998,26,Centre-Back,€35.00m,35000000,Chelsea
+Benoît Badiashile,France,26/03/2001,23,Centre-Back,€30.00m,30000000,Chelsea
+Wesley Fofana,France,17/12/2000,23,Centre-Back,€25.00m,25000000,Chelsea
+Tosin Adarabioyo,England,24/09/1997,27,Centre-Back,€20.00m,20000000,Chelsea
+Marc Cucurella,Spain,22/07/1998,26,Left-Back,€30.00m,30000000,Chelsea
+Ben Chilwell,England,21/12/1996,27,Left-Back,€22.00m,22000000,Chelsea
+Renato Veiga,Portugal,29/07/2003,21,Left-Back,€8.00m,8000000,Chelsea
+Reece James,England,08/12/1999,24,Right-Back,€35.00m,35000000,Chelsea
+Malo Gusto,France,19/05/2003,21,Right-Back,€35.00m,35000000,Chelsea
+Moisés Caicedo,Ecuador,02/11/2001,22,Defensive Midfield,€75.00m,75000000,Chelsea
+Roméo Lavia,Belgium,06/01/2004,20,Defensive Midfield,€35.00m,35000000,Chelsea
+Enzo Fernández,Argentina,17/01/2001,23,Central Midfield,€75.00m,75000000,Chelsea
+Kiernan Dewsbury-Hall,England,06/09/1998,26,Central Midfield,€30.00m,30000000,Chelsea
+Carney Chukwuemeka,England,20/10/2003,20,Central Midfield,€15.00m,15000000,Chelsea
+Cesare Casadei,Italy,10/01/2003,21,Central Midfield,€10.00m,10000000,Chelsea
+Cole Palmer,England,06/05/2002,22,Attacking Midfield,€90.00m,90000000,Chelsea
+Mykhaylo Mudryk,Ukraine,05/01/2001,23,Left Winger,€30.00m,30000000,Chelsea
+Jadon Sancho,England,25/03/2000,24,Left Winger,€30.00m,30000000,Chelsea
+Pedro Neto,Portugal,09/03/2000,24,Right Winger,€55.00m,55000000,Chelsea
+Noni Madueke,England,10/03/2002,22,Right Winger,€35.00m,35000000,Chelsea
+João Félix,Portugal,10/11/1999,24,Second Striker,€30.00m,30000000,Chelsea
+Christopher Nkunku,France,14/11/1997,26,Centre-Forward,€65.00m,65000000,Chelsea
+Nicolas Jackson,Senegal,20/06/2001,23,Centre-Forward,€40.00m,40000000,Chelsea
+Marc Guiu,Spain,04/01/2006,18,Centre-Forward,€7.50m,7500000,Chelsea
+Dean Henderson,England,12/03/1997,27,Goalkeeper,€12.00m,12000000,Crystal Palace
+Matt Turner,United States,24/06/1994,30,Goalkeeper,€5.00m,5000000,Crystal Palace
+Remi Matthews,England,10/02/1994,30,Goalkeeper,€500k,500000,Crystal Palace
+Marc Guéhi,England,13/07/2000,24,Centre-Back,€45.00m,45000000,Crystal Palace
+Maxence Lacroix,France,06/04/2000,24,Centre-Back,€20.00m,20000000,Crystal Palace
+Chadi Riad,Morocco,17/06/2003,21,Centre-Back,€15.00m,15000000,Crystal Palace
+Trevoh Chalobah,England,05/07/1999,25,Centre-Back,€13.00m,13000000,Crystal Palace
+Chris Richards,United States,28/03/2000,24,Centre-Back,€12.00m,12000000,Crystal Palace
+Rob Holding,England,20/09/1995,29,Centre-Back,€5.00m,5000000,Crystal Palace
+Tyrick Mitchell,England,01/09/1999,25,Left-Back,€25.00m,25000000,Crystal Palace
+Daniel Muñoz,Colombia,26/05/1996,28,Right-Back,€23.00m,23000000,Crystal Palace
+Nathaniel Clyne,England,05/04/1991,33,Right-Back,€1.50m,1500000,Crystal Palace
+Joel Ward,England,29/10/1989,34,Right-Back,€1.00m,1000000,Crystal Palace
+Cheick Doucouré,Mali,08/01/2000,24,Defensive Midfield,€35.00m,35000000,Crystal Palace
+Adam Wharton,England,06/02/2004,20,Defensive Midfield,€30.00m,30000000,Crystal Palace
+Jefferson Lerma,Colombia,25/10/1994,29,Defensive Midfield,€18.00m,18000000,Crystal Palace
+Will Hughes,England,17/04/1995,29,Central Midfield,€9.00m,9000000,Crystal Palace
+Jeffrey Schlupp,Ghana,23/12/1992,31,Left Midfield,€7.00m,7000000,Crystal Palace
+Eberechi Eze,England,29/06/1998,26,Attacking Midfield,€60.00m,60000000,Crystal Palace
+Daichi Kamada,Japan,05/08/1996,28,Attacking Midfield,€18.00m,18000000,Crystal Palace
+Matheus França,Brazil,01/04/2004,20,Attacking Midfield,€15.00m,15000000,Crystal Palace
+Ismaïla Sarr,Senegal,25/02/1998,26,Right Winger,€18.00m,18000000,Crystal Palace
+Eddie Nketiah,England,30/05/1999,25,Centre-Forward,€30.00m,30000000,Crystal Palace
+Jean-Philippe Mateta,France,28/06/1997,27,Centre-Forward,€20.00m,20000000,Crystal Palace
+Jordan Pickford,England,07/03/1994,30,Goalkeeper,€22.00m,22000000,Everton
+João Virgínia,Portugal,10/10/1999,24,Goalkeeper,€800k,800000,Everton
+Asmir Begovic,Bosnia-Herzegovina,20/06/1987,37,Goalkeeper,€300k,300000,Everton
+Jarrad Branthwaite,England,27/06/2002,22,Centre-Back,€42.00m,42000000,Everton
+Jake O'Brien,Ireland,15/05/2001,23,Centre-Back,€15.00m,15000000,Everton
+James Tarkowski,England,19/11/1992,31,Centre-Back,€13.00m,13000000,Everton
+Michael Keane,England,11/01/1993,31,Centre-Back,€6.00m,6000000,Everton
+Vitaliy Mykolenko,Ukraine,29/05/1999,25,Left-Back,€28.00m,28000000,Everton
+Ashley Young,England,09/07/1985,39,Left-Back,€500k,500000,Everton
+Nathan Patterson,Scotland,16/10/2001,22,Right-Back,€15.00m,15000000,Everton
+Séamus Coleman,Ireland,11/10/1988,35,Right-Back,€500k,500000,Everton
+Roman Dixon,England,26/12/2004,19,Right-Back,€0,0,Everton
+James Garner,England,13/03/2001,23,Defensive Midfield,€22.00m,22000000,Everton
+Orel Mangala,Belgium,18/03/1998,26,Central Midfield,€20.00m,20000000,Everton
+Abdoulaye Doucouré,Mali,01/01/1993,31,Central Midfield,€10.00m,10000000,Everton
+Tim Iroegbunam,England,30/06/2003,21,Central Midfield,€10.00m,10000000,Everton
+Idrissa Gueye,Senegal,26/09/1989,35,Central Midfield,€2.00m,2000000,Everton
+Jesper Lindstrøm,Denmark,29/02/2000,24,Attacking Midfield,€22.00m,22000000,Everton
+Dwight McNeil,England,22/11/1999,24,Left Winger,€22.00m,22000000,Everton
+Jack Harrison,England,20/11/1996,27,Right Winger,€18.00m,18000000,Everton
+Dominic Calvert-Lewin,England,16/03/1997,27,Centre-Forward,€22.00m,22000000,Everton
+Beto,Guinea-Bissau,31/01/1998,26,Centre-Forward,€20.00m,20000000,Everton
+Armando Broja,Albania,10/09/2001,23,Centre-Forward,€18.00m,18000000,Everton
+Iliman Ndiaye,Senegal,06/03/2000,24,Centre-Forward,€15.00m,15000000,Everton
+Chermiti,Portugal,24/05/2004,20,Centre-Forward,€9.00m,9000000,Everton
+Bernd Leno,Germany,04/03/1992,32,Goalkeeper,€13.00m,13000000,Fulham
+Steven Benda,Germany,01/10/1998,26,Goalkeeper,€1.00m,1000000,Fulham
+Joachim Andersen,Denmark,31/05/1996,28,Centre-Back,€35.00m,35000000,Fulham
+Issa Diop,France,09/01/1997,27,Centre-Back,€20.00m,20000000,Fulham
+Calvin Bassey,Nigeria,31/12/1999,24,Centre-Back,€16.00m,16000000,Fulham
+Jorge Cuenca,Spain,17/11/1999,24,Centre-Back,€6.00m,6000000,Fulham
+Antonee Robinson,United States,08/08/1997,27,Left-Back,€25.00m,25000000,Fulham
+Ryan Sessegnon,England,18/05/2000,24,Left-Back,€10.00m,10000000,Fulham
+Timothy Castagne,Belgium,05/12/1995,28,Right-Back,€17.00m,17000000,Fulham
+Kenny Tete,Netherlands,09/10/1995,29,Right-Back,€15.00m,15000000,Fulham
+Sander Berge,Norway,14/02/1998,26,Central Midfield,€20.00m,20000000,Fulham
+Harrison Reed,England,27/01/1995,29,Central Midfield,€13.00m,13000000,Fulham
+Saša Lukić,Serbia,13/08/1996,28,Central Midfield,€10.00m,10000000,Fulham
+Tom Cairney,Scotland,20/01/1991,33,Central Midfield,€2.00m,2000000,Fulham
+Emile Smith Rowe,England,28/07/2000,24,Attacking Midfield,€28.00m,28000000,Fulham
+Andreas Pereira,Brazil,01/01/1996,28,Attacking Midfield,€20.00m,20000000,Fulham
+Alex Iwobi,Nigeria,03/05/1996,28,Left Winger,€25.00m,25000000,Fulham
+Harry Wilson,Wales,22/03/1997,27,Right Winger,€17.00m,17000000,Fulham
+Reiss Nelson,England,10/12/1999,24,Right Winger,€15.00m,15000000,Fulham
+Adama Traoré,Spain,25/01/1996,28,Right Winger,€9.00m,9000000,Fulham
+Rodrigo Muniz,Brazil,04/05/2001,23,Centre-Forward,€20.00m,20000000,Fulham
+Raúl Jiménez,Mexico,05/05/1991,33,Centre-Forward,€5.00m,5000000,Fulham
+Carlos Vinícius,Brazil,25/03/1995,29,Centre-Forward,€4.00m,4000000,Fulham
+Arijanet Muric,Kosovo,07/11/1998,25,Goalkeeper,€7.00m,7000000,Ipswich Town
+Christian Walton,England,09/11/1995,28,Goalkeeper,€900k,900000,Ipswich Town
+Cieran Slicker,Scotland,15/09/2002,22,Goalkeeper,€300k,300000,Ipswich Town
+Jacob Greaves,England,12/09/2000,24,Centre-Back,€20.00m,20000000,Ipswich Town
+Dara O'Shea,Ireland,04/03/1999,25,Centre-Back,€10.00m,10000000,Ipswich Town
+Axel Tuanzebe,DR Congo,14/11/1997,26,Centre-Back,€3.00m,3000000,Ipswich Town
+Luke Woolfenden,England,21/10/1998,25,Centre-Back,€2.00m,2000000,Ipswich Town
+Cameron Burgess,Australia,21/10/1995,28,Centre-Back,€1.50m,1500000,Ipswich Town
+Leif Davis,England,31/12/1999,24,Left-Back,€15.00m,15000000,Ipswich Town
+Conor Townsend,England,04/03/1993,31,Left-Back,€1.50m,1500000,Ipswich Town
+Ben Johnson,England,24/01/2000,24,Right-Back,€8.00m,8000000,Ipswich Town
+Harry Clarke,England,02/03/2001,23,Right-Back,€5.00m,5000000,Ipswich Town
+Kalvin Phillips,England,02/12/1995,28,Defensive Midfield,€22.00m,22000000,Ipswich Town
+Jens Cajuste,Sweden,10/08/1999,25,Defensive Midfield,€10.00m,10000000,Ipswich Town
+Jack Taylor,Ireland,23/06/1998,26,Central Midfield,€1.80m,1800000,Ipswich Town
+Sam Morsy,Egypt,10/09/1991,33,Central Midfield,€900k,900000,Ipswich Town
+Massimo Luongo,Australia,25/09/1992,32,Central Midfield,€500k,500000,Ipswich Town
+Sammie Szmodics,Ireland,24/09/1995,29,Attacking Midfield,€10.00m,10000000,Ipswich Town
+Jack Clarke,England,23/11/2000,23,Left Winger,€15.00m,15000000,Ipswich Town
+Nathan Broadhead,Wales,05/04/1998,26,Left Winger,€5.00m,5000000,Ipswich Town
+Omari Hutchinson,England,30/10/2003,20,Right Winger,€18.00m,18000000,Ipswich Town
+Chiedozie Ogbene,Ireland,01/05/1997,27,Right Winger,€8.00m,8000000,Ipswich Town
+Wes Burns,Wales,23/11/1994,29,Right Winger,€2.00m,2000000,Ipswich Town
+Conor Chaplin,England,16/02/1997,27,Second Striker,€7.00m,7000000,Ipswich Town
+Liam Delap,England,08/02/2003,21,Centre-Forward,€15.00m,15000000,Ipswich Town
+George Hirst,England,15/02/1999,25,Centre-Forward,€4.00m,4000000,Ipswich Town
+Ali Al-Hamadi,Iraq,01/03/2002,22,Centre-Forward,€2.00m,2000000,Ipswich Town
+Mads Hermansen,Denmark,11/07/2000,24,Goalkeeper,€9.00m,9000000,Leicester City
+Daniel Iversen,Denmark,19/07/1997,27,Goalkeeper,€3.00m,3000000,Leicester City
+Danny Ward,Wales,22/06/1993,31,Goalkeeper,€1.80m,1800000,Leicester City
+Jakub Stolarczyk,Poland,19/12/2000,23,Goalkeeper,€400k,400000,Leicester City
+Wout Faes,Belgium,03/04/1998,26,Centre-Back,€20.00m,20000000,Leicester City
+Caleb Okoli,Italy,13/07/2001,23,Centre-Back,€12.00m,12000000,Leicester City
+Conor Coady,England,25/02/1993,31,Centre-Back,€3.00m,3000000,Leicester City
+Jannik Vestergaard,Denmark,03/08/1992,32,Centre-Back,€3.00m,3000000,Leicester City
+James Justin,England,23/02/1998,26,Left-Back,€15.00m,15000000,Leicester City
+Victor Kristiansen,Denmark,16/12/2002,21,Left-Back,€15.00m,15000000,Leicester City
+Luke Thomas,England,10/06/2001,23,Left-Back,€6.00m,6000000,Leicester City
+Ricardo Pereira,Portugal,06/10/1993,31,Right-Back,€8.00m,8000000,Leicester City
+Oliver Skipp,England,16/09/2000,24,Defensive Midfield,€18.00m,18000000,Leicester City
+Wilfred Ndidi,Nigeria,16/12/1996,27,Defensive Midfield,€16.00m,16000000,Leicester City
+Boubakary Soumaré,France,27/02/1999,25,Defensive Midfield,€14.00m,14000000,Leicester City
+Harry Winks,England,02/02/1996,28,Defensive Midfield,€12.00m,12000000,Leicester City
+Hamza Choudhury,England,01/10/1997,27,Defensive Midfield,€4.50m,4500000,Leicester City
+Michael Golding,England,23/05/2006,18,Central Midfield,€2.00m,2000000,Leicester City
+Bilal El Khannouss,Morocco,10/05/2004,20,Attacking Midfield,€30.00m,30000000,Leicester City
+Facundo Buonanotte,Argentina,23/12/2004,19,Attacking Midfield,€18.00m,18000000,Leicester City
+Stephy Mavididi,England,31/05/1998,26,Left Winger,€11.00m,11000000,Leicester City
+Issahaku Fatawu,Ghana,08/03/2004,20,Right Winger,€13.00m,13000000,Leicester City
+Bobby De Cordova-Reid,Jamaica,02/02/1993,31,Right Winger,€5.00m,5000000,Leicester City
+Kasey McAteer,Ireland,22/11/2001,22,Right Winger,€900k,900000,Leicester City
+Odsonne Edouard,France,16/01/1998,26,Centre-Forward,€18.00m,18000000,Leicester City
+Patson Daka,Zambia,09/10/1998,26,Centre-Forward,€12.00m,12000000,Leicester City
+Jordan Ayew,Ghana,11/09/1991,33,Centre-Forward,€4.00m,4000000,Leicester City
+Jamie Vardy,England,11/01/1987,37,Centre-Forward,€1.00m,1000000,Leicester City
+Alisson,Brazil,02/10/1992,32,Goalkeeper,€28.00m,28000000,Liverpool
+Caoimhín Kelleher,Ireland,23/11/1998,25,Goalkeeper,€20.00m,20000000,Liverpool
+Vitezslav Jaros,Czech Republic,23/07/2001,23,Goalkeeper,€5.00m,5000000,Liverpool
+Ibrahima Konaté,France,25/05/1999,25,Centre-Back,€45.00m,45000000,Liverpool
+Virgil van Dijk,Netherlands,08/07/1991,33,Centre-Back,€30.00m,30000000,Liverpool
+Joe Gomez,England,23/05/1997,27,Centre-Back,€28.00m,28000000,Liverpool
+Jarell Quansah,England,29/01/2003,21,Centre-Back,€22.00m,22000000,Liverpool
+Andrew Robertson,Scotland,11/03/1994,30,Left-Back,€30.00m,30000000,Liverpool
+Konstantinos Tsimikas,Greece,12/05/1996,28,Left-Back,€22.00m,22000000,Liverpool
+Trent Alexander-Arnold,England,07/10/1998,26,Right-Back,€70.00m,70000000,Liverpool
+Conor Bradley,Northern Ireland,09/07/2003,21,Right-Back,€15.00m,15000000,Liverpool
+Wataru Endo,Japan,09/02/1993,31,Defensive Midfield,€13.00m,13000000,Liverpool
+Tyler Morton,England,31/10/2002,21,Defensive Midfield,€8.00m,8000000,Liverpool
+Dominik Szoboszlai,Hungary,25/10/2000,23,Central Midfield,€75.00m,75000000,Liverpool
+Alexis Mac Allister,Argentina,24/12/1998,25,Central Midfield,€75.00m,75000000,Liverpool
+Ryan Gravenberch,Netherlands,16/05/2002,22,Central Midfield,€40.00m,40000000,Liverpool
+Curtis Jones,England,30/01/2001,23,Central Midfield,€35.00m,35000000,Liverpool
+Harvey Elliott,England,04/04/2003,21,Central Midfield,€35.00m,35000000,Liverpool
+Luis Díaz,Colombia,13/01/1997,27,Left Winger,€80.00m,80000000,Liverpool
+Cody Gakpo,Netherlands,07/05/1999,25,Left Winger,€55.00m,55000000,Liverpool
+Mohamed Salah,Egypt,15/06/1992,32,Right Winger,€55.00m,55000000,Liverpool
+Federico Chiesa,Italy,25/10/1997,26,Right Winger,€30.00m,30000000,Liverpool
+Darwin Núñez,Uruguay,24/06/1999,25,Centre-Forward,€65.00m,65000000,Liverpool
+Diogo Jota,Portugal,04/12/1996,27,Centre-Forward,€50.00m,50000000,Liverpool
+Ederson,Brazil,17/08/1993,31,Goalkeeper,€35.00m,35000000,Manchester City
+Stefan Ortega,Germany,06/11/1992,31,Goalkeeper,€9.00m,9000000,Manchester City
+Scott Carson,England,03/09/1985,39,Goalkeeper,€200k,200000,Manchester City
+Rúben Dias,Portugal,14/05/1997,27,Centre-Back,€80.00m,80000000,Manchester City
+Manuel Akanji,Switzerland,19/07/1995,29,Centre-Back,€45.00m,45000000,Manchester City
+Nathan Aké,Netherlands,18/02/1995,29,Centre-Back,€40.00m,40000000,Manchester City
+John Stones,England,28/05/1994,30,Centre-Back,€38.00m,38000000,Manchester City
+Josko Gvardiol,Croatia,23/01/2002,22,Left-Back,€75.00m,75000000,Manchester City
+Josh Wilson-Esbrand,England,26/12/2002,21,Left-Back,€4.00m,4000000,Manchester City
+Rico Lewis,England,21/11/2004,19,Right-Back,€40.00m,40000000,Manchester City
+Kyle Walker,England,28/05/1990,34,Right-Back,€13.00m,13000000,Manchester City
+Rodri,Spain,22/06/1996,28,Defensive Midfield,€130.00m,130000000,Manchester City
+Matheus Nunes,Portugal,27/08/1998,26,Central Midfield,€40.00m,40000000,Manchester City
+Mateo Kovacic,Croatia,06/05/1994,30,Central Midfield,€30.00m,30000000,Manchester City
+İlkay Gündoğan,Germany,24/10/1990,33,Central Midfield,€12.00m,12000000,Manchester City
+James McAtee,England,18/10/2002,21,Central Midfield,€12.00m,12000000,Manchester City
+Bernardo Silva,Portugal,10/08/1994,30,Attacking Midfield,€70.00m,70000000,Manchester City
+Kevin De Bruyne,Belgium,28/06/1991,33,Attacking Midfield,€45.00m,45000000,Manchester City
+Jérémy Doku,Belgium,27/05/2002,22,Left Winger,€65.00m,65000000,Manchester City
+Jack Grealish,England,10/09/1995,29,Left Winger,€55.00m,55000000,Manchester City
+Phil Foden,England,28/05/2000,24,Right Winger,€150.00m,150000000,Manchester City
+Savinho,Brazil,10/04/2004,20,Right Winger,€50.00m,50000000,Manchester City
+Oscar Bobb,Norway,12/07/2003,21,Right Winger,€25.00m,25000000,Manchester City
+Erling Haaland,Norway,21/07/2000,24,Centre-Forward,€200.00m,200000000,Manchester City
+André Onana,Cameroon,02/04/1996,28,Goalkeeper,€35.00m,35000000,Manchester United
+Altay Bayindir,Türkiye,14/04/1998,26,Goalkeeper,€10.00m,10000000,Manchester United
+Tom Heaton,England,15/04/1986,38,Goalkeeper,€250k,250000,Manchester United
+Matthijs de Ligt,Netherlands,12/08/1999,25,Centre-Back,€55.00m,55000000,Manchester United
+Leny Yoro,France,13/11/2005,18,Centre-Back,€55.00m,55000000,Manchester United
+Lisandro Martínez,Argentina,18/01/1998,26,Centre-Back,€50.00m,50000000,Manchester United
+Harry Maguire,England,05/03/1993,31,Centre-Back,€18.00m,18000000,Manchester United
+Victor Lindelöf,Sweden,17/07/1994,30,Centre-Back,€15.00m,15000000,Manchester United
+Jonny Evans,Northern Ireland,03/01/1988,36,Centre-Back,€2.00m,2000000,Manchester United
+Luke Shaw,England,12/07/1995,29,Left-Back,€28.00m,28000000,Manchester United
+Tyrell Malacia,Netherlands,17/08/1999,25,Left-Back,€18.00m,18000000,Manchester United
+Diogo Dalot,Portugal,18/03/1999,25,Right-Back,€40.00m,40000000,Manchester United
+Noussair Mazraoui,Morocco,14/11/1997,26,Right-Back,€30.00m,30000000,Manchester United
+Manuel Ugarte,Uruguay,11/04/2001,23,Defensive Midfield,€50.00m,50000000,Manchester United
+Casemiro,Brazil,23/02/1992,32,Defensive Midfield,€15.00m,15000000,Manchester United
+Toby Collyer,England,03/01/2004,20,Defensive Midfield,€2.00m,2000000,Manchester United
+Kobbie Mainoo,England,19/04/2005,19,Central Midfield,€55.00m,55000000,Manchester United
+Christian Eriksen,Denmark,14/02/1992,32,Central Midfield,€8.00m,8000000,Manchester United
+Daniel Gore,England,26/09/2004,20,Central Midfield,€900k,900000,Manchester United
+Bruno Fernandes,Portugal,08/09/1994,30,Attacking Midfield,€65.00m,65000000,Manchester United
+Mason Mount,England,10/01/1999,25,Attacking Midfield,€35.00m,35000000,Manchester United
+Marcus Rashford,England,31/10/1997,26,Left Winger,€60.00m,60000000,Manchester United
+Alejandro Garnacho,Argentina,01/07/2004,20,Left Winger,€50.00m,50000000,Manchester United
+Amad Diallo,Cote d'Ivoire,11/07/2002,22,Right Winger,€22.00m,22000000,Manchester United
+Antony,Brazil,24/02/2000,24,Right Winger,€20.00m,20000000,Manchester United
+Rasmus Højlund,Denmark,04/02/2003,21,Centre-Forward,€65.00m,65000000,Manchester United
+Joshua Zirkzee,Netherlands,22/05/2001,23,Centre-Forward,€50.00m,50000000,Manchester United
+Ethan Wheatley,England,20/01/2006,18,Centre-Forward,€0,0,Manchester United
+Nick Pope,England,19/04/1992,32,Goalkeeper,€16.00m,16000000,Newcastle United
+Odysseas Vlachodimos,Greece,26/04/1994,30,Goalkeeper,€7.00m,7000000,Newcastle United
+Martin Dúbravka,Slovakia,15/01/1989,35,Goalkeeper,€1.00m,1000000,Newcastle United
+Mark Gillespie,England,27/03/1992,32,Goalkeeper,€300k,300000,Newcastle United
+John Ruddy,England,24/10/1986,37,Goalkeeper,€200k,200000,Newcastle United
+Sven Botman,Netherlands,12/01/2000,24,Centre-Back,€45.00m,45000000,Newcastle United
+Lloyd Kelly,England,06/10/1998,26,Centre-Back,€18.00m,18000000,Newcastle United
+Fabian Schär,Switzerland,20/12/1991,32,Centre-Back,€10.00m,10000000,Newcastle United
+Dan Burn,England,09/05/1992,32,Centre-Back,€8.00m,8000000,Newcastle United
+Jamaal Lascelles,England,11/11/1993,30,Centre-Back,€7.00m,7000000,Newcastle United
+Lewis Hall,England,08/09/2004,20,Left-Back,€22.00m,22000000,Newcastle United
+Matt Targett,England,18/09/1995,29,Left-Back,€8.00m,8000000,Newcastle United
+Alex Murphy,Ireland,25/06/2004,20,Left-Back,€250k,250000,Newcastle United
+Tino Livramento,England,12/11/2002,21,Right-Back,€35.00m,35000000,Newcastle United
+Kieran Trippier,England,19/09/1990,34,Right-Back,€10.00m,10000000,Newcastle United
+Emil Krafth,Sweden,02/08/1994,30,Right-Back,€2.50m,2500000,Newcastle United
+Bruno Guimarães,Brazil,16/11/1997,26,Defensive Midfield,€85.00m,85000000,Newcastle United
+Isaac Hayden,England,22/03/1995,29,Defensive Midfield,€1.80m,1800000,Newcastle United
+Joelinton,Brazil,14/08/1996,28,Central Midfield,€40.00m,40000000,Newcastle United
+Sandro Tonali,Italy,08/05/2000,24,Central Midfield,€38.00m,38000000,Newcastle United
+Joe Willock,England,20/08/1999,25,Central Midfield,€30.00m,30000000,Newcastle United
+Sean Longstaff,England,30/10/1997,26,Central Midfield,€25.00m,25000000,Newcastle United
+Lewis Miley,England,01/05/2006,18,Central Midfield,€22.00m,22000000,Newcastle United
+Anthony Gordon,England,24/02/2001,23,Left Winger,€60.00m,60000000,Newcastle United
+Harvey Barnes,England,09/12/1997,26,Left Winger,€35.00m,35000000,Newcastle United
+Garang Kuol,Australia,15/09/2004,20,Left Winger,€600k,600000,Newcastle United
+Miguel Almirón,Paraguay,10/02/1994,30,Right Winger,€20.00m,20000000,Newcastle United
+Jacob Murphy,England,24/02/1995,29,Right Winger,€15.00m,15000000,Newcastle United
+Alexander Isak,Sweden,21/09/1999,25,Centre-Forward,€75.00m,75000000,Newcastle United
+Callum Wilson,England,27/02/1992,32,Centre-Forward,€13.00m,13000000,Newcastle United
+William Osula,Denmark,04/08/2003,21,Centre-Forward,€7.00m,7000000,Newcastle United
+Matz Sels,Belgium,26/02/1992,32,Goalkeeper,€7.00m,7000000,Nottingham Forest
+Carlos Miguel,Brazil,09/10/1998,26,Goalkeeper,€4.00m,4000000,Nottingham Forest
+Murillo,Brazil,04/07/2002,22,Centre-Back,€40.00m,40000000,Nottingham Forest
+Nikola Milenković,Serbia,12/10/1997,26,Centre-Back,€18.00m,18000000,Nottingham Forest
+Morato,Brazil,30/06/2001,23,Centre-Back,€15.00m,15000000,Nottingham Forest
+Andrew Omobamidele,Ireland,23/06/2002,22,Centre-Back,€11.00m,11000000,Nottingham Forest
+Willy Boly,Cote d'Ivoire,03/02/1991,33,Centre-Back,€2.50m,2500000,Nottingham Forest
+Zach Abbott,England,13/05/2006,18,Centre-Back,€300k,300000,Nottingham Forest
+Álex Moreno,Spain,08/06/1993,31,Left-Back,€13.00m,13000000,Nottingham Forest
+Harry Toffolo,England,19/08/1995,29,Left-Back,€5.00m,5000000,Nottingham Forest
+Neco Williams,Wales,13/04/2001,23,Right-Back,€17.00m,17000000,Nottingham Forest
+Ola Aina,Nigeria,08/10/1996,28,Right-Back,€12.00m,12000000,Nottingham Forest
+Ibrahim Sangaré,Cote d'Ivoire,02/12/1997,26,Defensive Midfield,€30.00m,30000000,Nottingham Forest
+Danilo,Brazil,29/04/2001,23,Defensive Midfield,€28.00m,28000000,Nottingham Forest
+Elliot Anderson,England,06/11/2002,21,Central Midfield,€22.00m,22000000,Nottingham Forest
+James Ward-Prowse,England,01/11/1994,29,Central Midfield,€22.00m,22000000,Nottingham Forest
+Nicolás Domínguez,Argentina,28/06/1998,26,Central Midfield,€17.00m,17000000,Nottingham Forest
+Ryan Yates,England,21/11/1997,26,Central Midfield,€12.00m,12000000,Nottingham Forest
+Morgan Gibbs-White,England,27/01/2000,24,Attacking Midfield,€40.00m,40000000,Nottingham Forest
+Callum Hudson-Odoi,England,07/11/2000,23,Left Winger,€22.00m,22000000,Nottingham Forest
+Ramón Sosa,Paraguay,31/08/1999,25,Left Winger,€13.00m,13000000,Nottingham Forest
+Jota Silva,Portugal,01/08/1999,25,Left Winger,€12.00m,12000000,Nottingham Forest
+Anthony Elanga,Sweden,27/04/2002,22,Right Winger,€25.00m,25000000,Nottingham Forest
+Eric da Silva Moreira,Germany,03/05/2006,18,Right Winger,€1.00m,1000000,Nottingham Forest
+Taiwo Awoniyi,Nigeria,12/08/1997,27,Centre-Forward,€28.00m,28000000,Nottingham Forest
+Chris Wood,New Zealand,07/12/1991,32,Centre-Forward,€7.00m,7000000,Nottingham Forest
+Emmanuel Dennis,Nigeria,15/11/1997,26,Centre-Forward,€4.20m,4200000,Nottingham Forest
+Aaron Ramsdale,England,14/05/1998,26,Goalkeeper,€22.00m,22000000,Southampton
+Gavin Bazunu,Ireland,20/02/2002,22,Goalkeeper,€15.00m,15000000,Southampton
+Joe Lumley,England,15/02/1995,29,Goalkeeper,€600k,600000,Southampton
+Alex McCarthy,England,03/12/1989,34,Goalkeeper,€500k,500000,Southampton
+Taylor Harwood-Bellis,England,30/01/2002,22,Centre-Back,€22.00m,22000000,Southampton
+Armel Bella-Kotchap,Germany,11/12/2001,22,Centre-Back,€12.00m,12000000,Southampton
+Jan Bednarek,Poland,12/04/1996,28,Centre-Back,€11.00m,11000000,Southampton
+Ronnie Edwards,England,28/03/2003,21,Centre-Back,€3.80m,3800000,Southampton
+Nathan Wood,England,31/05/2002,22,Centre-Back,€3.80m,3800000,Southampton
+Jack Stephens,England,27/01/1994,30,Centre-Back,€2.00m,2000000,Southampton
+Juan Larios,Spain,12/01/2004,20,Left-Back,€4.50m,4500000,Southampton
+Ryan Manning,Ireland,14/06/1996,28,Left-Back,€3.00m,3000000,Southampton
+Charlie Taylor,England,18/09/1993,31,Left-Back,€3.00m,3000000,Southampton
+Kyle Walker-Peters,England,13/04/1997,27,Right-Back,€20.00m,20000000,Southampton
+Yukinari Sugawara,Japan,28/06/2000,24,Right-Back,€12.00m,12000000,Southampton
+James Bree,England,11/12/1997,26,Right-Back,€2.20m,2200000,Southampton
+Lesley Ugochukwu,France,26/03/2004,20,Defensive Midfield,€25.00m,25000000,Southampton
+Flynn Downes,England,20/01/1999,25,Defensive Midfield,€13.00m,13000000,Southampton
+Mateus Fernandes,Portugal,10/07/2004,20,Central Midfield,€12.00m,12000000,Southampton
+Joe Aribo,Nigeria,21/07/1996,28,Central Midfield,€5.00m,5000000,Southampton
+Will Smallbone,Ireland,21/02/2000,24,Central Midfield,€5.00m,5000000,Southampton
+Adam Lallana,England,10/05/1988,36,Attacking Midfield,€1.00m,1000000,Southampton
+Kamaldeen Sulemana,Ghana,15/02/2002,22,Left Winger,€13.00m,13000000,Southampton
+Maxwel Cornet,Cote d'Ivoire,27/09/1996,28,Left Winger,€9.00m,9000000,Southampton
+Ryan Fraser,Scotland,24/02/1994,30,Left Winger,€3.00m,3000000,Southampton
+Tyler Dibling,England,17/02/2006,18,Right Winger,€5.00m,5000000,Southampton
+Samuel Amo-Ameyaw,England,18/07/2006,18,Right Winger,€300k,300000,Southampton
+Adam Armstrong,England,10/02/1997,27,Centre-Forward,€16.00m,16000000,Southampton
+Cameron Archer,England,09/12/2001,22,Centre-Forward,€13.00m,13000000,Southampton
+Paul Onuachu,Nigeria,28/05/1994,30,Centre-Forward,€13.00m,13000000,Southampton
+Ben Brereton Díaz,Chile,18/04/1999,25,Centre-Forward,€8.00m,8000000,Southampton
+Ross Stewart,Scotland,11/07/1996,28,Centre-Forward,€4.50m,4500000,Southampton
+Guglielmo Vicario,Italy,07/10/1996,28,Goalkeeper,€35.00m,35000000,Tottenham Hotspur
+Fraser Forster,England,17/03/1988,36,Goalkeeper,€1.20m,1200000,Tottenham Hotspur
+Brandon Austin,England,08/01/1999,25,Goalkeeper,€600k,600000,Tottenham Hotspur
+Alfie Whiteman,England,02/10/1998,26,Goalkeeper,€500k,500000,Tottenham Hotspur
+Cristian Romero,Argentina,27/04/1998,26,Centre-Back,€65.00m,65000000,Tottenham Hotspur
+Micky van de Ven,Netherlands,19/04/2001,23,Centre-Back,€55.00m,55000000,Tottenham Hotspur
+Radu Drăgușin,Romania,03/02/2002,22,Centre-Back,€25.00m,25000000,Tottenham Hotspur
+Ben Davies,Wales,24/04/1993,31,Centre-Back,€10.00m,10000000,Tottenham Hotspur
+Destiny Udogie,Italy,28/11/2002,21,Left-Back,€45.00m,45000000,Tottenham Hotspur
+Sergio Reguilón,Spain,16/12/1996,27,Left-Back,€12.00m,12000000,Tottenham Hotspur
+Pedro Porro,Spain,13/09/1999,25,Right-Back,€45.00m,45000000,Tottenham Hotspur
+Djed Spence,England,09/08/2000,24,Right-Back,€8.00m,8000000,Tottenham Hotspur
+Yves Bissouma,Mali,30/08/1996,28,Defensive Midfield,€35.00m,35000000,Tottenham Hotspur
+Rodrigo Bentancur,Uruguay,25/06/1997,27,Defensive Midfield,€35.00m,35000000,Tottenham Hotspur
+Pape Matar Sarr,Senegal,14/09/2002,22,Central Midfield,€45.00m,45000000,Tottenham Hotspur
+Archie Gray,England,12/03/2006,18,Central Midfield,€25.00m,25000000,Tottenham Hotspur
+Lucas Bergvall,Sweden,02/02/2006,18,Central Midfield,€12.00m,12000000,Tottenham Hotspur
+James Maddison,England,23/11/1996,27,Attacking Midfield,€70.00m,70000000,Tottenham Hotspur
+Dejan Kulusevski,Sweden,25/04/2000,24,Attacking Midfield,€55.00m,55000000,Tottenham Hotspur
+Heung-min Son,"Korea, South",08/07/1992,32,Left Winger,€45.00m,45000000,Tottenham Hotspur
+Timo Werner,Germany,06/03/1996,28,Left Winger,€17.00m,17000000,Tottenham Hotspur
+Mikey Moore,England,11/08/2007,17,Left Winger,€1.00m,1000000,Tottenham Hotspur
+Brennan Johnson,Wales,23/05/2001,23,Right Winger,€48.00m,48000000,Tottenham Hotspur
+Wilson Odobert,France,28/11/2004,19,Right Winger,€18.00m,18000000,Tottenham Hotspur
+Dominic Solanke,England,14/09/1997,27,Centre-Forward,€45.00m,45000000,Tottenham Hotspur
+Richarlison,Brazil,10/05/1997,27,Centre-Forward,€35.00m,35000000,Tottenham Hotspur
+Alphonse Areola,France,27/02/1993,31,Goalkeeper,€10.00m,10000000,West Ham United
+Wes Foderingham,England,14/01/1991,33,Goalkeeper,€900k,900000,West Ham United
+Lukasz Fabianski,Poland,18/04/1985,39,Goalkeeper,€700k,700000,West Ham United
+Maximilian Kilman,England,23/05/1997,27,Centre-Back,€38.00m,38000000,West Ham United
+Jean-Clair Todibo,France,30/12/1999,24,Centre-Back,€35.00m,35000000,West Ham United
+Konstantinos Mavropanos,Greece,11/12/1997,26,Centre-Back,€20.00m,20000000,West Ham United
+Kaelan Casey,England,28/10/2004,19,Centre-Back,€1.00m,1000000,West Ham United
+Emerson,Italy,03/08/1994,30,Left-Back,€12.00m,12000000,West Ham United
+Aaron Cresswell,England,15/12/1989,34,Left-Back,€900k,900000,West Ham United
+Aaron Wan-Bissaka,England,26/11/1997,26,Right-Back,€20.00m,20000000,West Ham United
+Vladimír Coufal,Czech Republic,22/08/1992,32,Right-Back,€8.00m,8000000,West Ham United
+Edson Álvarez,Mexico,24/10/1997,26,Defensive Midfield,€35.00m,35000000,West Ham United
+Tomas Soucek,Czech Republic,27/02/1995,29,Defensive Midfield,€30.00m,30000000,West Ham United
+Guido Rodríguez,Argentina,12/04/1994,30,Defensive Midfield,€20.00m,20000000,West Ham United
+Carlos Soler,Spain,02/01/1997,27,Central Midfield,€20.00m,20000000,West Ham United
+Andy Irving,Scotland,13/05/2000,24,Central Midfield,€2.00m,2000000,West Ham United
+Lucas Paquetá,Brazil,27/08/1997,27,Attacking Midfield,€55.00m,55000000,West Ham United
+Mohammed Kudus,Ghana,02/08/2000,24,Attacking Midfield,€50.00m,50000000,West Ham United
+Crysencio Summerville,Netherlands,30/10/2001,22,Left Winger,€22.00m,22000000,West Ham United
+Jarrod Bowen,England,20/12/1996,27,Right Winger,€50.00m,50000000,West Ham United
+Luis Guilherme,Brazil,09/02/2006,18,Right Winger,€24.00m,24000000,West Ham United
+Niclas Füllkrug,Germany,09/02/1993,31,Centre-Forward,€15.00m,15000000,West Ham United
+Danny Ings,England,23/07/1992,32,Centre-Forward,€8.00m,8000000,West Ham United
+Michail Antonio,Jamaica,28/03/1990,34,Centre-Forward,€4.00m,4000000,West Ham United
+José Sá,Portugal,17/01/1993,31,Goalkeeper,€10.00m,10000000,Wolverhampton Wanderers
+Sam Johnstone,England,25/03/1993,31,Goalkeeper,€10.00m,10000000,Wolverhampton Wanderers
+Daniel Bentley,England,13/07/1993,31,Goalkeeper,€2.00m,2000000,Wolverhampton Wanderers
+Tom King,Wales,09/03/1995,29,Goalkeeper,€200k,200000,Wolverhampton Wanderers
+Toti,Portugal,16/01/1999,25,Centre-Back,€20.00m,20000000,Wolverhampton Wanderers
+Santiago Bueno,Uruguay,09/11/1998,25,Centre-Back,€8.00m,8000000,Wolverhampton Wanderers
+Yerson Mosquera,Colombia,02/05/2001,23,Centre-Back,€6.00m,6000000,Wolverhampton Wanderers
+Bastien Meupiyou,France,19/03/2006,18,Centre-Back,€2.50m,2500000,Wolverhampton Wanderers
+Craig Dawson,England,06/05/1990,34,Centre-Back,€2.00m,2000000,Wolverhampton Wanderers
+Rayan Aït-Nouri,Algeria,06/06/2001,23,Left-Back,€35.00m,35000000,Wolverhampton Wanderers
+Nélson Semedo,Portugal,16/11/1993,30,Right-Back,€12.00m,12000000,Wolverhampton Wanderers
+Pedro Lima,Brazil,01/07/2006,18,Right-Back,€5.00m,5000000,Wolverhampton Wanderers
+Matt Doherty,Ireland,16/01/1992,32,Right-Back,€3.00m,3000000,Wolverhampton Wanderers
+André,Brazil,16/07/2001,23,Defensive Midfield,€25.00m,25000000,Wolverhampton Wanderers
+Mario Lemina,Gabon,01/09/1993,31,Defensive Midfield,€10.00m,10000000,Wolverhampton Wanderers
+Boubacar Traoré,Mali,20/08/2001,23,Defensive Midfield,€6.00m,6000000,Wolverhampton Wanderers
+João Gomes,Brazil,12/02/2001,23,Central Midfield,€40.00m,40000000,Wolverhampton Wanderers
+Jean0Ricner Bellegarde,France,27/06/1998,26,Central Midfield,€18.00m,18000000,Wolverhampton Wanderers
+Tommy Doyle,England,17/10/2001,22,Central Midfield,€10.00m,10000000,Wolverhampton Wanderers
+Luke Cundle,England,26/04/2002,22,Central Midfield,€5.00m,5000000,Wolverhampton Wanderers
+Rodrigo Gomes,Portugal,07/07/2003,21,Right Midfield,€15.00m,15000000,Wolverhampton Wanderers
+Gonçalo Guedes,Portugal,29/11/1996,27,Left Winger,€15.00m,15000000,Wolverhampton Wanderers
+Carlos Forbs,Portugal,19/03/2004,20,Left Winger,€8.00m,8000000,Wolverhampton Wanderers
+Enso González,Paraguay,20/01/2005,19,Left Winger,€4.00m,4000000,Wolverhampton Wanderers
+Pablo Sarabia,Spain,11/05/1992,32,Right Winger,€8.00m,8000000,Wolverhampton Wanderers
+Matheus Cunha,Brazil,27/05/1999,25,Centre-Forward,€45.00m,45000000,Wolverhampton Wanderers
+Jørgen Strand Larsen,Norway,06/02/2000,24,Centre-Forward,€25.00m,25000000,Wolverhampton Wanderers
+Hee-chan Hwang,"Korea, South",26/01/1996,28,Centre-Forward,€25.00m,25000000,Wolverhampton Wanderers
+Sasa Kalajdzic,Austria,07/07/1997,27,Centre-Forward,€5.00m,5000000,Wolverhampton Wanderers
